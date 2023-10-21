@@ -26,3 +26,5 @@ Game.h and Game.cpp: Define and implement the Game class responsible for managin
 Side.h: Contains enum Side and constants related to the game's sides and pots.
 
 Main.cpp: Contains the main routine and additional non-member functions.
+
+Coursework from UCLA CS32.
